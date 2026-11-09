@@ -1,0 +1,11 @@
+# Secrets and personal data
+.env
+state.json
+*.tmp
+
+# Python / local
+.venv/
+__pycache__/
+*.pyc
+sync.log
+.DS_Store
